@@ -1,7 +1,7 @@
 """
 Given an array of integers, return indices of the two numbers such that they add up to specific target.
 Assume that each input will have exactly one solution
-Given nums = [2,7,11,15], Target=9
+Given nums = [2,11,15,7], Target=9
 """
 
 class Solution:
